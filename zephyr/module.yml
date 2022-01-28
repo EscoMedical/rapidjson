@@ -1,0 +1,4 @@
+name: rapidjson
+build:
+  cmake-ext: True
+  kconfig-ext: True
